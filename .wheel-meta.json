@@ -1,0 +1,22 @@
+{
+  "wheel_id": 427,
+  "structure": "umbrella",
+  "slug": "retainingwallpros-com-150",
+  "project": "retaining-wall-quotes-brisbane-c09084d5d3e0543420ba7ad590322451",
+  "parent_t1_ref": "retainingwallpros.com-003",
+  "node_role": "buffer",
+  "money_target": "retainingwallpros.com.au",
+  "primary_kw": "retaining wall quotes brisbane",
+  "intended_url": "https://aumedia.neocities.org/retaining-wall-quotes-brisbane-c09084d5d3e0543420ba7ad590322451/",
+  "tier": "T2",
+  "writeback_nonce": "ad1d4db65df70fa6",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/retainingwallpros.com-003/retaining-wall-quotes-brisbane.html",
+      "anchor": "https://s3.ap-southeast-2.amazonaws.com/retainingwallpros.com-003/retaining-wall-quotes-brisbane.html",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
